@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6906986f817bcaf40b681c8fb7f730df
+timeCreated: 1436036756
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fuel: {fileID: 172464, guid: a14254d25ad961d458739a7f9470cb42, type: 2}
+  - rock: {fileID: 168254, guid: 35759371c03e5f44887d27089b46c535, type: 2}
+  - rockDown: {fileID: 185090, guid: 5b3abe8d037f0f14ab2cc5ffd2ff32fc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
